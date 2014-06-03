@@ -1,0 +1,12 @@
+宏岭
+http://cqhlgczx.com/
+http://www.net.cn/
+http://my.paulhost.com/
+qhb520@163.com
+a65203478
+
+su
+sudo chmod -R 777 /var/www/*
+sudo a2ensite
+sudo a2dissite
+sudo /etc/init.d/apache2 restart
